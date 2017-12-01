@@ -72,7 +72,7 @@ class Persoana {
 
     // primul cuplu
 
-    print(pers1.nume, " din ", pers1.localitate, " detine masina ", car1.marca, " de culoare ", car1.culoare, " pe  ", car1.combustibil, ".")
+    print(pers1.nume, ", din ", pers1.localitate, ", detine masina ", car1.marca, " de culoare ", car1.culoare, " pe  ", car1.combustibil, ".")
 
 
 
